@@ -1,0 +1,20 @@
+.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 20px;
+		float: none;
+		border-radius: 15px;
+		margin-top: 20px;
+		margin-bottom: 20px;
+
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	
+}
+body{
+background-color:slateblue
+}
